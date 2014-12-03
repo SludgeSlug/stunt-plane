@@ -5,6 +5,10 @@ from kivy.vector import Vector
 from kivy.clock import Clock
 from random import randint
 
+
+class Plane(Widget):
+    pass
+
 class StuntPlaneGame(Widget):
     def update(self, dt):
         pass
